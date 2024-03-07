@@ -1,0 +1,26 @@
+{
+"name": "djof-fjso-vjo12",
+"version": "1.0.0",
+"description": "A smart home control system based on the Internet of Things (IoT), allowing users to manage devices such as lights, heating, and security cameras via a mobile app or voice control.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/donnerx1998/Smart-Home-Control-System.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "donnerx1998",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
